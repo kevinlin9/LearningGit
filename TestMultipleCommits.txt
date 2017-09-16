@@ -1,2 +1,4 @@
-what happens when I make one commit
+What happens when I make one commit
 and then make another commit on github?
+
+Answer: Multiple unpushed commits will not be combined into one commit when pushed to the repository. They will appear as separate commits.
